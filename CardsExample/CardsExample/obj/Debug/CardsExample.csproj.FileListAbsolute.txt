@@ -1,0 +1,4 @@
+D:\WorkCSHARP\ForTesting\CardsExample\CardsExample\bin\Debug\CardsExample.exe
+D:\WorkCSHARP\ForTesting\CardsExample\CardsExample\bin\Debug\CardsExample.pdb
+D:\WorkCSHARP\ForTesting\CardsExample\CardsExample\obj\Debug\CardsExample.exe
+D:\WorkCSHARP\ForTesting\CardsExample\CardsExample\obj\Debug\CardsExample.pdb
