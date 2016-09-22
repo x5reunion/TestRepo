@@ -7,6 +7,7 @@ using System.Numerics;
 
 namespace SortAlgorithms
 {
+	// Test Palindrom
     public class PalindromA
     {
         public static void ShowPalindromsCount(ulong value)
