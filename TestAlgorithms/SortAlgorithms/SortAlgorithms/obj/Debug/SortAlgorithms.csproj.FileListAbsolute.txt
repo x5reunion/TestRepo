@@ -3,3 +3,6 @@ D:\WorkCSHARP\TestSomething\TestAlgorithms\SortAlgorithms\SortAlgorithms\bin\Deb
 D:\WorkCSHARP\TestSomething\TestAlgorithms\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.exe
 D:\WorkCSHARP\TestSomething\TestAlgorithms\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.pdb
 D:\WorkCSHARP\TestSomething\TestAlgorithms\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+C:\Users\Vega\Desktop\Unium\MyRepo\TestAlgorithms\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+C:\Users\Vega\Desktop\Unium\MyRepo\TestAlgorithms\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.exe
+C:\Users\Vega\Desktop\Unium\MyRepo\TestAlgorithms\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.pdb
