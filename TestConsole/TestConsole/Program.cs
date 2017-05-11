@@ -10,8 +10,7 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("We are in GitHub.");
-            Console.WriteLine("Update from visual studio.");
+            Console.WriteLine("We are in GitHub");
         }
     }
 }
