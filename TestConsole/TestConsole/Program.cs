@@ -12,6 +12,8 @@ namespace TestConsole
         {
             Console.WriteLine("We are in GitHub.");
             Console.WriteLine("Update from visual studio.");
+
+            Console.WriteLine("Test upgrade.");
         }
     }
 }
